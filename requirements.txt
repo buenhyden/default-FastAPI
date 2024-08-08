@@ -1,0 +1,10 @@
+Django
+environs
+pydantic
+mysqlclient
+redis
+psycopg2
+pymongo
+valkey
+kafka-python
+opensearch-dsl
